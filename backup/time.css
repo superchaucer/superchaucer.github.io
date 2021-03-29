@@ -1,0 +1,17 @@
+#jnkc{
+	
+	background:black;
+	color:#00ff00;
+	height:30px;
+	line-height:30px;
+	font-size:16px;
+	text-indent:30px;
+	width:400px;
+	margin:0 auto;
+	text-align:center;
+	border:4px outset yellow;
+	}
+#time{
+	   margin-left:10px;
+	   color:#00ff00;
+	 }
